@@ -4,4 +4,4 @@ I played many different sports as a kid, but the main sport I played on teams fo
 
 
 
-featured_image: 'https://farm9.staticflickr.com/8818/17112409181_876bba7517_z_d.jpg'
+featured_image: 'https://farm7.staticflickr.com/6217/6244418481_dd9f3ed605_z_d.jpg'
